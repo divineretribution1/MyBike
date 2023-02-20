@@ -1,7 +1,7 @@
 {
-  "name": "Miami",
+  "name": "MyBike",
   "version": "1.0.0",
-  "description": "Miami landing page",
+  "description": "MyBike landing page",
   "main": "index.js",
   "scripts": {
     "init": "mate-scripts init",
@@ -27,7 +27,7 @@
     "colors": "^1.3.3",
     "eslint": "^5.16.0",
     "eslint-plugin-node": "^9.0.1",
-    "gh-pages": "2.0.0",
+    "gh-pages": "^2.0.0",
     "gulp-htmllint": "0.0.16",
     "jest": "^27.3.1",
     "node-sass": "^4.14.1",
